@@ -96,6 +96,12 @@ ul li {
 
 
   footer {
-    color: gray;
+    color: rgb(223, 240, 236);
     text-align: center;
+    background: linear-gradient(#7585cf, #5671e9,#3251dd,#2e4dd8, #3251dd ) ;
+    a:link { color: white } /* unvisited link */
+    a:visited { color: white; } /* visited link */
+    a:hover { color: white; } /* mouse over link */
+    a:active { color: white; } /* selected link */
+
   }
