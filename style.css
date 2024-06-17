@@ -44,8 +44,14 @@ section {
 
     color: #333;
     text-align: center;
-    font-size: small;
+    font-size: small;  
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: -.17%;
+  }
 
+  h6 {
+    font-size: x-small;
   }
 
   .course-list {
