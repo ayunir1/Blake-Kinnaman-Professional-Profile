@@ -1,3 +1,15 @@
+
+main {
+  color: rgb(223, 240, 236);
+  text-align: center;
+  background: linear-gradient(#7585cf, #5671e9,#3251dd,#2e4dd8, #3251dd ) ;
+  a:link { color: rgb(17, 16, 16) } /* unvisited link */
+  a:visited { color: rgb(82, 59, 59); } /* visited link */
+  a:hover { color: rgb(29, 24, 24); } /* mouse over link */
+  a:active { color: rgb(82, 76, 76); } /* selected link */
+
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: auto;
@@ -102,9 +114,9 @@ ul li {
     color: rgb(223, 240, 236);
     text-align: center;
     background: linear-gradient(#7585cf, #5671e9,#3251dd,#2e4dd8, #3251dd ) ;
-    a:link { color: white } /* unvisited link */
-    a:visited { color: white; } /* visited link */
-    a:hover { color: white; } /* mouse over link */
-    a:active { color: white; } /* selected link */
+    a:link { color: rgb(34, 33, 33) } /* unvisited link */
+    a:visited { color: rgb(20, 14, 14); } /* visited link */
+    a:hover { color: rgb(26, 18, 18); } /* mouse over link */
+    a:active { color: rgb(17, 16, 16); } /* selected link */
 
   }
