@@ -1,12 +1,12 @@
 
 main {
-  color: rgb(223, 240, 236);
+  color: rgb(27, 29, 28);
   text-align: center;
   background: linear-gradient(#7585cf, #5671e9,#3251dd,#2e4dd8, #3251dd ) ;
   a:link { color: rgb(17, 16, 16) } /* unvisited link */
-  a:visited { color: rgb(82, 59, 59); } /* visited link */
-  a:hover { color: rgb(29, 24, 24); } /* mouse over link */
-  a:active { color: rgb(82, 76, 76); } /* selected link */
+  a:visited { color: rgb(8, 8, 8); } /* visited link */
+  a:hover { color: rgb(59, 54, 54); } /* mouse over link */
+  a:active { color: rgb(17, 15, 15); } /* selected link */
 
 }
 
@@ -16,11 +16,6 @@ body {
     padding: 0 5%;
     color: #333;
     text-align: center;
-}
-
-
-header h1 {
-  margin: 0;
 }
   
 
@@ -40,7 +35,7 @@ section {
 
 
   h1 {
-    color: #333;
+    color: #131111;
     text-align: center;
     font-size: xx-large;
   }
